@@ -1,0 +1,19 @@
+body {
+}
+a, a:visited, a:active {
+	color: $whitefont;
+	text-decoration: none;
+}
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
+}
+input[type="text"], input[type="password"] {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+/*-- wrapper around custom login box --*/
+.custom-login {
+	background: $darkblueshadow;
+}

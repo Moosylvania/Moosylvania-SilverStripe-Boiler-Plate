@@ -1,0 +1,15 @@
+{
+	"name": "moosylvania/moosylvania-silverstripe-boiler-plate",
+	"description": "Boiler Plate for SilverStripe based off of HTML5 Boiler Plate as well as other best practices.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "boilerplate", "html5"],
+	"license": "MIT",
+	"authors": [{
+		"name": "Joe Madde",
+		"email": "joe.madden@moosylvania.com"
+	}],
+	"require": {
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1"
+	}
+}

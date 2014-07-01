@@ -1,0 +1,10 @@
+header {
+	display: block;
+	border-bottom: 5px solid $goldborder;
+	overflow: hidden;
+	@include box-shadow($darkblueshadow 2px 2px 10px);
+	.inner {
+		max-width: 960px;
+		margin: 0 auto;
+	}
+}
